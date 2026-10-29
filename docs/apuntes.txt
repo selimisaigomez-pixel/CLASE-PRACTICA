@@ -1,2 +1,0 @@
-Notas de la clase 1
-Hoy aprendi: pdw, ls, cd, mkdir, touch
